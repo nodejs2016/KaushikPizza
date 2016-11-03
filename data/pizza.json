@@ -1,0 +1,30 @@
+{
+ "pizza": [
+    {
+      "id" : "1",
+      "name" : "Cheese Pizza",
+      "toppings" : "cheese",
+      "price" : "10",
+      "image" : "https://www.google.com/search?q=cheese+pizza&espv=2&biw=1920&bih=886&source=lnms&tbm=isch&sa=X&ved=0ahUKEwix4omO4IrQAhUJ7YMKHeQ2D4UQ_AUIBigB#imgrc=JV-r4LVXEDQq3M%3A"
+    },
+    
+     {
+      "id" : "2",
+      "name" : "Margriitta Pizza",
+      "toppings" : "cheese, tomato",
+      "price" : "15",
+      "image" : "https://www.google.com/search?q=margarita+PIZZA&espv=2&biw=1920&bih=886&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi6o_DV4IrQAhXIzIMKHVLnB3cQ_AUIBigB#imgrc=PX3qgaDxup_MkM%3A"
+    },
+    
+     {
+      "id" : "3",
+      "name" : "Veggie Pizza",
+      "toppings" : "cheese,onion,tomato,mushroom,pepper",
+      "price" : "20",
+      "image" :"https://www.google.com/search?q=veggie+pizza&espv=2&biw=1920&bih=886&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiW2d234YrQAhUD52MKHYbMAGEQ_AUIBigB&dpr=1#tbm=isch&q=veggie+pizza&chips=q:veggie+pizza,g_1:pizza+hut&imgrc=LAsfl6z6TcbToM%3A"
+    }
+    
+    
+    
+    ]
+}
