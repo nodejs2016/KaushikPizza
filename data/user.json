@@ -1,0 +1,29 @@
+{
+ "user": [
+    {
+      "username" : "Amit Kaushik",
+      "password" : "amit",
+      "city" : "Princeton",
+      "country" : "USA"
+    },
+    
+     {
+      "username" : "Akshit Kaushik",
+      "password" : "akshit",
+      "city" : "Boston",
+      "country" : "USA"
+    },
+    
+     {
+      "username" : "Vyan Kaushik",
+      "password" : "vyan",
+      "city" : "Lexington",
+      "country" : "USA"
+    }
+    
+     
+    
+    
+    
+    ]
+}

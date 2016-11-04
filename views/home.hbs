@@ -1,4 +1,17 @@
-<h1>This is MyHhome page</h1>
+<div>
+{{#if error}}
+    <h1>{{error}}</h1>
+  {{/if}}
+<h1>Please Sign In Here</h1><br><br><br>
+<form action="/authenticate" method="get">
+UserName:  <input type="text" id="username" name="username" placeholder="Enter your user name" required /><br><br><br>
+Password:   <input type="password" id="password" name="password" placeholder="Enter your password " required /><br><br><br>
+<input type="submit" value="Sign In"/>
+
+
+</form><br><br>
+<a href = "/registration">Sign Up</a>
+<h1>This is Home page</h1>
 <h3>Following are the available list of Pizza today</h3>
 <table border="0">
 <tr>
@@ -16,3 +29,4 @@
   	</tr>
   {{/each}}
 </table>
+</div>
